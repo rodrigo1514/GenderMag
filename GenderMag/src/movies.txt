@@ -1,0 +1,101 @@
+	Movie ID 	Number of Viewers	Rating		Release year 		Movie name
+	0009846		982					8.4				2015			Star Wars: Episode VII - The Force Awakens 
+	0007466		168					9.0				2019			Avengers: Endgame 
+	0006545		354					7.6				2021			Spider-Man: No Way Home 
+	0006465		64984				9.7				2009			Avatar
+	0004946		65917				9.7				2022			Top Gun: Maverick
+	1108468		684					8.1				2018			Black Panther 
+	2244651		79848				8.3				2018			Avengers: Infinity War
+	9964177		6846				8.7				1997			Titanic
+	4468974		499					5.1				2015			Jurassic World 
+	6844666		6848				6.5				2012			Marvel's The Avengers 
+	3386484		75468				9.8				2017			Star Wars: Episode VIII - The Last Jedi
+	6841116		6947				6.7				2018			Incredibles 2 
+	5535485		6541				8.7				2019			The Lion King
+	7768416		75165				8.9				2008			The Dark Knight 
+	6444968		1984				8.6				2016			Rogue One: A Star Wars Story 
+	7984100		75416				9.7				2019			Star Wars: Episode IX - The Rise of Skywalker 
+	8800654		6849				7.5				2017			Beauty and the Beast 
+	0068495		7419				9.8				2016			Finding Dory  
+	0096849		7989				8.7				2019			Frozen II 
+	4098484		8648				9.1				1999			Star Wars: Episode I - The Phantom Menace 
+	0974984		8964				9.5				1977			Star Wars: Episode IV - A New Hope 
+	0009844		9844				9.7				2015			Avengers: Age of Ultron 
+	0068447		93516				8.7				2012			The Dark Knight Rises 
+	0006848		70321				7.8				2004			Shrek 2 
+	0000684		1216				8.9				1982			E. T. The Extra-Terrestrial 
+	1016548		6487				8.2				2019			Toy Story 4 
+	1026846		4796				8.6				2019			Captain Marvel 
+	1036845		8984				9.2				2013			The Hunger Games: Catching Fire 
+	1046354		5985				9.2				2006			Pirates of the Caribbean: Dead Man's Chest 
+	7496446		684891				9.0				1994			The Lion King 
+	1068441		65407				9.4				2018			Jurassic World: Fallen Kingdom 
+	0944516		65473				9.2				2010			Toy Story 3 
+	0000010		68407				9.1				2017			Wonder Woman 
+	1111684		66231				8.4				2022			Doctor Strange in the Multiverse of Madness  
+	2222264		35119				8.4				2013			Iron Man 3  
+	3333333		68474				8.5				2016			Captain America: Civil War 
+	4444444		847849				8.6				2012			The Hunger Games 
+	8478409		78984				6.7				2002			Spider-Man 
+	6879877		68484				6.9				2017			Jumanji: Welcome to the Jungle 
+	7798789		87987				7.1				1996			Jurassic Park 
+	1232163		84654				8.2				2009			Transformers: Revenge of the Fallen  
+	2654566		79879				8.2				2013			Frozen 
+	3214849		8216				8.3				2019			Spider-Man: Far from Home 
+	3218949		8226				8.5				2017			Guardians of the Galaxy Vol. 2 
+	4214849		2135				8.5				2011			Harry Potter and the Deathly Hallows, Part 2 
+	3232656		35458				9.2				2003			Finding Nemo
+	3200000		3654				5.0				2005			Star Wars: Episode III - Revenge of the Sith 
+	3230001		95841				8.3				2003			The Lord of the Rings: The Return of the King 
+	3210000		9849654				8.8				2022			Jurassic World Dominion 
+	3214000		831231				9.1				2004			Spider-Man 2 
+	3002333		8848				9.9				2004			The Passion of the Christ 
+	4000333		1328				4.4				2022			The Batman  
+	5001516		86165				8.5				2022			Minions: The Rise of Gru 
+	6000646		9484				8.1				2016			The Secret Life of Pets 
+	5000315		710006				8.3				2013			Despicable Me 2 
+	3700000		84984				8.2				2016			The Jungle Book
+	3800000		90000				8.7				2016			Deadpool 
+	3600012		98485				8.6				2015			Inside Out 
+	3300000		79145				8.4				2019			Aladdin 
+	3600321		9845				8.9				2015			Furious 7 
+	3333354		65166				8.3				2011			Transformers: Dark of the Moon 
+	4688888		68465				9.3				2014			American Sniper  
+	5633333		3211				9.3				2022			Thor: Love and Thunder 
+	6666666		65456				6.6				2002			The Lord of the Rings: The Two Towers 
+	8600000		684695				7.4				2016			Zootopia 
+	3654999		3215				3.3				2014			The Hunger Games: Mockingjay - Part 1 
+	3933333		9898				8.3				2007			Spider-Man 3 
+	1333333		56465				8.6				2015			Minions  
+	4555566		321					8.4				2019			Joker  
+	3331333		8000				8.8				2018			Aquaman  
+	4464666		59529				8.2				2017			Spider-Man: Homecoming 
+	6844444		8563				8.7				2010			Alice in Wonderland 
+	3999999		8216				8.9				2014			Guardians of the Galaxy 
+	3000000		8496				9.3				1994			Forrest Gump 
+	0000000		9465				9.4				2016			Batman v Superman: Dawn of Justice 
+	0036333		10354				7.4				2017			It  
+	3900003		8984				8.2				2016			Suicide Squad 
+	1000003		89798				8.1				2018			Deadpool 2
+	5555556		2121				8.9				2007			Shrek the Third 
+	3333000		87898				8.1				2019			Jumanji: The Next Level 
+	5555566		456654				9.1				2007			Transformers 
+	3333003		54564				9.8				2008			Iron Man
+	3300009		65465				9.4				2001			Harry Potter and the Sorcerer's Stone 
+	4444449		8798				9.1				2008			Indiana Jones and the Kingdom of the Crystal Skull 
+	9663222		8798				8.2				2001			The Lord of the Rings: The Fellowship of the Ring 
+	1111112		3212				8.4				2017			Thor: Ragnarok
+	6868888		65498				8.9				2010			Iron Man 2 
+	3111000		9898				8.3				2002			Star Wars: Episode II - Attack of the Clones 
+	0006466		7986				8.1				2007			Pirates of the Caribbean: At World's End 
+	0000484		6546				8.9				1983			Star Wars: Episode VI - Return of the Jedi 
+	0000444		8216				8.4				1996			Independence Day 
+	1132155		896					8.8				2003			Pirates of the Caribbean: The Curse of the Black Pearl 
+	6546546		6546				8.9				2012			Skyfall 
+	3498000		3211				8.1				2012			The Hobbit: An Unexpected Journey 
+	3154846		646					8.9				2009			Harry Potter and the Half-Blood Prince 
+	3650000		32123				8.5				2010			The Twilight Saga: Eclipse 
+	3200000		65465				8.7				2009			The Twilight Saga: New Moon  
+	3888880		873					8.9				2010			Harry Potter and the Deathly Hallows, Part 1 
+	7777899		65465				8.2				1999			The Sixth Sense  
+	9999999		89798				8.1				2009			Up 
